@@ -1,5 +1,5 @@
-CREATE DATABASE agenda_facil;
-USE agenda_facil;
+CREATE DATABASE Agentize;
+USE Agentize;
 
 CREATE TABLE Usuario (
     Usuario_id INT PRIMARY KEY AUTO_INCREMENT,
